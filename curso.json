@@ -3,22 +3,22 @@
     {
       "id": "1",
       "nombre": "Lab4",
-      "q_alumnos": "30"
+      "q_alumnos": 30
     },
     {
       "id": "2",
       "nombre": "DABD",
-      "q_alumnos": "20"
+      "q_alumnos": 20
     },
     {
       "id": "3",
       "nombre": "Legislacion",
-      "q_alumnos": "40"
+      "q_alumnos": 40
     },
     {
       "id": "4",
       "nombre": "MSI",
-      "q_alumnos": "30"
+      "q_alumnos": 30
     }
   ]
 }
