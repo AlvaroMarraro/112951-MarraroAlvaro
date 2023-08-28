@@ -2,30 +2,22 @@
   "cursos": [
     {
       "id": 1,
-      "nombre": "Alvaro Marraro"
+      "nombre": "Lab4",
+      "q_alumnos": "30"
     },
     {
       "id": 2,
-      "nombre": "Pulp Fiction"
+      "nombre": "DABD",
+      "q_alumnos": "20"
     },
     {
       "id": 3,
-      "nombre": "Todo Sobre Mi Madre"
+      "nombre": "Legislacion",
+      "q_alumnos": "40"
     },
     {
       "id": 4,
-      "nombre": "300"
-    },
-    {
-      "id": 5,
-      "nombre": "El silencio de los corderos"
-    },
-    {
-      "id": 6,
-      "nombre": "Forrest Gump"
-    },
-    {
-      "id": 7,
-      "nombre": "Las Hurdes"
+      "nombre": "MSI",
+      "q_alumnos": "30"
     }
 }
