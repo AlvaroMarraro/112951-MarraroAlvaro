@@ -1,24 +1,91 @@
 {
-  "curso": [
+  "product": [
     {
-      "id": "1",
-      "nombre": "Lab4",
-      "q_alumnos": 30
+      "idProduct": 1,
+      "name": "Martillo",
+      "description": "martillo manual",
+      "unitPrice": 55.55,
+      "stockQuantity": 5,
+      "unitOfMeasure": "unidades",
+      "idCategory": 1,
+      "urlImage": ""
     },
     {
-      "id": "2",
-      "nombre": "DABD",
-      "q_alumnos": 20
+      "idProduct": 2,
+      "name": "Martillo neumatico",
+      "description": "martillo neumatico grande",
+      "unitPrice": 8569.55,
+      "stockQuantity": 4,
+      "unitOfMeasure": "unidades",
+      "idCategory": 2,
+      "urlImage": ""
     },
     {
-      "id": "3",
-      "nombre": "Legislacion",
-      "q_alumnos": 40
+      "idProduct": 3,
+      "name": "Escalera 5",
+      "description": "Escalera de 5 escalones",
+      "unitPrice": 555.55,
+      "stockQuantity": 8,
+      "unitOfMeasure": "unidades",
+      "idCategory": 1,
+      "urlImage": ""
     },
     {
-      "id": "4",
-      "nombre": "MSI",
-      "q_alumnos": 30
+      "idProduct": 4,
+      "name": "Escalera 20",
+      "description": "Escalera de 20 escalones",
+      "unitPrice": 2585.55,
+      "stockQuantity": 3,
+      "unitOfMeasure": "unidades",
+      "idCategory": 1,
+      "urlImage": ""
+    },
+    {
+      "idProduct": 5,
+      "name": "Destornillador",
+      "description": "Destornillador phillips",
+      "unitPrice": 55.55,
+      "stockQuantity": 55,
+      "unitOfMeasure": "unidades",
+      "idCategory": 1,
+      "urlImage": ""
+    },
+    {
+      "idProduct": 6,
+      "name": "Pinza",
+      "description": "pinza electrica",
+      "unitPrice": 455.55,
+      "stockQuantity": 5,
+      "unitOfMeasure": "unidades",
+      "idCategory": 2,
+      "urlImage": ""
+    },
+    {
+      "idProduct": 7,
+      "name": "Martillo electrico",
+      "description": "martillo electrico 60w",
+      "unitPrice": 585.55,
+      "stockQuantity": 5,
+      "unitOfMeasure": "unidades",
+      "idCategory": 3,
+      "urlImage": ""
+    }
+  ]
+  "categoryModel": [
+    {
+      "id": 1,
+      "name": "Herramientas",
+      "description": "Herramientas manuales"
+    },
+    {
+      "id": 2,
+      "name": "Maquinaria",
+      "description": "Maquinaria pesada"
+    },
+    {
+     "id": 3,
+      "name": "Electronicos",
+      "description": "Herramientas electricas"
     }
   ]
 }
