@@ -196,26 +196,6 @@
       "unitOfMeasure": "unidad",
       "idCategory": 102,
       "urlImage": "https://example.com/soplete.jpg"
-    },
-    {
-      "idProducto": 18,
-      "name": "Llave de Tubo Ajustable",
-      "description": "Una llave de tubo ajustable para trabajos de fontanería y tuberías.",
-      "unitPrice": 10.49,
-      "stockQuantity": 60,
-      "unitOfMeasure": "unidad",
-      "idCategory": 109,
-      "urlImage": "https://example.com/llave-tubo.jpg"
-    },
-    {
-      "idProducto": 19,
-      "name": "Taladro Inalámbrico",
-      "description": "Un taladro inalámbrico con batería recargable para perforar con facilidad en cualquier lugar.",
-      "unitPrice": 79.99,
-      "stockQuantity": 25,
-      "unitOfMeasure": "unidad",
-      "idCategory": 102,
-      "urlImage": "https://example.com/taladro.jpg"
     }
   ]
 }
