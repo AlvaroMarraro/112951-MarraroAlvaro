@@ -1,5 +1,5 @@
 {
-  "categorias": [
+  "categoryModel": [
     {
       "id": 101,
       "name": "Herramientas de Mano",
@@ -26,9 +26,9 @@
       "description": "Suministros variados para tareas de bricolaje y reparación."
     }
   ],
-  "productos": [
+  "product": [
     {
-      "idProducto": 1,
+      "idProduct": 1,
       "name": "Martillo de Carpintero Pro",
       "description": "Un martillo de alta calidad con mango de madera y cabeza de acero, ideal para trabajos de carpintería.",
       "unitPrice": 24.99,
@@ -38,7 +38,7 @@
       "urlImage": "https://example.com/martillo.jpg"
     },
     {
-      "idProducto": 2,
+      "idProduct": 2,
       "name": "Llave Ajustable Multiusos",
       "description": "Una llave que se puede ajustar para adaptarse a diferentes tamaños de tuercas y pernos, versátil para múltiples tareas.",
       "unitPrice": 12.99,
@@ -48,7 +48,7 @@
       "urlImage": "https://example.com/llave.jpg"
     },
     {
-      "idProducto": 3,
+      "idProduct": 3,
       "name": "Sierra Circular Eléctrica",
       "description": "Una herramienta potente para cortar madera y otros materiales de construcción con precisión.",
       "unitPrice": 89.99,
@@ -58,7 +58,7 @@
       "urlImage": "https://example.com/sierra.jpg"
     },
     {
-      "idProducto": 4,
+      "idProduct": 4,
       "name": "Cinta Métrica Resistente",
       "description": "Una cinta métrica duradera con una longitud de 5 metros, esencial para medir y marcar dimensiones en proyectos.",
       "unitPrice": 9.99,
@@ -68,7 +68,7 @@
       "urlImage": "https://example.com/cinta.jpg"
     },
     {
-      "idProducto": 5,
+      "idProduct": 5,
       "name": "Pintura para Interiores",
       "description": "Una gama de pinturas en una variedad de colores y acabados para renovar tus espacios interiores.",
       "unitPrice": 29.99,
@@ -78,7 +78,7 @@
       "urlImage": "https://example.com/pintura.jpg"
     },
     {
-      "idProducto": 6,
+      "idProduct": 6,
       "name": "Tornillos de Madera (Paquete de 50)",
       "description": "Tornillos de madera de alta calidad para una fijación sólida en proyectos de carpintería.",
       "unitPrice": 5.99,
@@ -88,7 +88,7 @@
       "urlImage": "https://example.com/tornillos.jpg"
     },
     {
-      "idProducto": 7,
+      "idProduct": 7,
       "name": "Cerradura de Puerta de Seguridad",
       "description": "Cerradura de alta seguridad para proteger tu hogar o negocio. Incluye llaves de repuesto.",
       "unitPrice": 39.99,
@@ -98,7 +98,7 @@
       "urlImage": "https://example.com/cerradura.jpg"
     },
     {
-      "idProducto": 8,
+      "idProduct": 8,
       "name": "Brocas para Taladro (Juego de 10)",
       "description": "Un juego de brocas de alta calidad para perforar madera, metal, concreto y más.",
       "unitPrice": 14.99,
@@ -108,7 +108,7 @@
       "urlImage": "https://example.com/brocas.jpg"
     },
     {
-      "idProducto": 9,
+      "idProduct": 9,
       "name": "Linterna Recargable LED",
       "description": "Linterna LED potente y recargable, ideal para trabajos nocturnos o emergencias.",
       "unitPrice": 19.99,
@@ -118,7 +118,7 @@
       "urlImage": "https://example.com/linterna.jpg"
     },
     {
-      "idProducto": 10,
+      "idProduct": 10,
       "name": "Guantes de Trabajo Resistentes (Par)",
       "description": "Guantes resistentes para proteger tus manos mientras trabajas en diferentes condiciones.",
       "unitPrice": 8.99,
@@ -128,7 +128,7 @@
       "urlImage": "https://example.com/guantes.jpg"
     },
     {
-      "idProducto": 11,
+      "idProduct": 11,
       "name": "Pala de Jardín",
       "description": "Una pala resistente para trabajos de jardinería y paisajismo.",
       "unitPrice": 17.99,
@@ -138,7 +138,7 @@
       "urlImage": "https://example.com/pala.jpg"
     },
     {
-      "idProducto": 12,
+      "idProduct": 12,
       "name": "Serrucho de Podar",
       "description": "Un serrucho diseñado para podar ramas de árboles y arbustos de manera eficiente.",
       "unitPrice": 12.99,
@@ -148,7 +148,7 @@
       "urlImage": "https://example.com/serrucho.jpg"
     },
     {
-      "idProducto": 13,
+      "idProduct": 13,
       "name": "Tubo de PVC (3 metros)",
       "description": "Tubo de PVC de alta calidad para proyectos de fontanería y construcción.",
       "unitPrice": 8.49,
@@ -158,7 +158,7 @@
       "urlImage": "https://example.com/tubo.jpg"
     },
     {
-      "idProducto": 14,
+      "idProduct": 14,
       "name": "Cepillo de Pintura (Juego de 3)",
       "description": "Juego de cepillos de pintura de diferentes tamaños para aplicar pintura con precisión.",
       "unitPrice": 9.99,
@@ -168,7 +168,7 @@
       "urlImage": "https://example.com/cepillos.jpg"
     },
     {
-      "idProducto": 15,
+      "idProduct": 15,
       "name": "Escalera de Aluminio (6 pies)",
       "description": "Una escalera de aluminio resistente y ligera para alcanzar lugares altos con seguridad.",
       "unitPrice": 59.99,
@@ -178,7 +178,7 @@
       "urlImage": "https://example.com/escalera.jpg"
     },
     {
-      "idProducto": 16,
+      "idProduct": 16,
       "name": "Destornillador Phillips",
       "description": "Un destornillador con punta Phillips para apretar y aflojar tornillos con cabeza en cruz.",
       "unitPrice": 4.99,
@@ -188,7 +188,7 @@
       "urlImage": "https://example.com/destornillador.jpg"
     },
     {
-      "idProducto": 17,
+      "idProduct": 17,
       "name": "Soplete de Gas",
       "description": "Un soplete de gas para trabajos de soldadura y soldadura blanda.",
       "unitPrice": 24.99,
