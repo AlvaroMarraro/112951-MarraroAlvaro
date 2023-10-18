@@ -286,46 +286,6 @@
       "unitOfMeasure": "unidad",
       "idCategory": 103,
       "urlImage": "https://example.com/hormigonera.jpg"
-    },
-    {
-      "idProducto": 27,
-      "name": "Gafas de Seguridad",
-      "description": "Gafas de seguridad con protección contra impactos para trabajos en entornos peligrosos.",
-      "unitPrice": 8.49,
-      "stockQuantity": 80,
-      "unitOfMeasure": "unidad",
-      "idCategory": 107,
-      "urlImage": "https://example.com/gafas.jpg"
-    },
-    {
-      "idProducto": 28,
-      "name": "Papel de Lija (Paquete de 10)",
-      "description": "Papel de lija de varios granos para preparar superficies antes de pintar o lijar.",
-      "unitPrice": 4.99,
-      "stockQuantity": 150,
-      "unitOfMeasure": "paquete",
-      "idCategory": 101,
-      "urlImage": "https://example.com/papel-lija.jpg"
-    },
-    {
-      "idProducto": 29,
-      "name": "Grifo de Cocina",
-      "description": "Un grifo de cocina de acero inoxidable con diseño moderno y funcionalidad.",
-      "unitPrice": 49.99,
-      "stockQuantity": 25,
-      "unitOfMeasure": "unidad",
-      "idCategory": 109,
-      "urlImage": "https://example.com/grifo.jpg"
-    },
-    {
-      "idProducto": 30,
-      "name": "Cinta de Teflón",
-      "description": "Cinta de teflón para sellar conexiones de fontanería y evitar fugas de agua.",
-      "unitPrice": 2.99,
-      "stockQuantity": 200,
-      "unitOfMeasure": "rollo",
-      "idCategory": 109,
-      "urlImage": "https://example.com/cinta-teflon.jpg"
     }
   ]
 }
