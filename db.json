@@ -137,7 +137,6 @@
       "stock_quantity": 67
     }
   ],
-{
   "purchase": [
     {
       "month": "Enero",
@@ -181,9 +180,10 @@
     },
     {
       "month": "Noviembre",
-      "price": 1950
+      "price": 1950000
     }
   ]
 }
+
 
 
