@@ -1,201 +1,189 @@
 {
-  "categoryModel": [
+  "products": [
     {
-      "id": 101,
-      "name": "Herramientas de Mano",
-      "description": "Productos manuales para diversas tareas de construcción y reparación."
+      "name": "Amoladora Angular Versa Pro 2400 W 230 Mm Ferreteria Express",
+      "stock_quantity": 1600
     },
     {
-      "id": 102,
-      "name": "Herramientas Eléctricas",
-      "description": "Herramientas motorizadas para trabajos más eficientes y precisos."
+      "name": "Amoladora angular eléctrica 820 w 115 mm",
+      "stock_quantity": 2100
     },
     {
-      "id": 103,
-      "name": "Material de Construcción",
-      "description": "Materiales esenciales para proyectos de construcción y renovación."
+      "name": "Cepillos De Bronce Para Taladro",
+      "stock_quantity": 1700
     },
     {
-      "id": 104,
-      "name": "Pinturas y Acabados",
-      "description": "Productos para dar color y mejorar la apariencia de interiores y exteriores."
+      "name": "Carro porta herramientas",
+      "stock_quantity": 2000
     },
     {
-      "id": 105,
-      "name": "Suministros de Ferretería",
-      "description": "Suministros variados para tareas de bricolaje y reparación."
-    }
-  ],
-  "product": [
-    {
-      "idProduct": 1,
-      "name": "Martillo de Carpintero Pro",
-      "description": "Un martillo de alta calidad con mango de madera y cabeza de acero, ideal para trabajos de carpintería.",
-      "unitPrice": 24.99,
-      "stockQuantity": 50,
-      "unitOfMeasure": "unidad",
-      "idCategory": 101,
-      "urlImage": "https://example.com/martillo.jpg"
+      "name": "Clavos M0",
+      "stock_quantity": 1200
     },
     {
-      "idProduct": 2,
-      "name": "Llave Ajustable Multiusos",
-      "description": "Una llave que se puede ajustar para adaptarse a diferentes tamaños de tuercas y pernos, versátil para múltiples tareas.",
-      "unitPrice": 12.99,
-      "stockQuantity": 75,
-      "unitOfMeasure": "unidad",
-      "idCategory": 101,
-      "urlImage": "https://example.com/llave.jpg"
+      "name": "Serrucho de poda",
+      "stock_quantity": 300
     },
     {
-      "idProduct": 3,
-      "name": "Sierra Circular Eléctrica",
-      "description": "Una herramienta potente para cortar madera y otros materiales de construcción con precisión.",
-      "unitPrice": 89.99,
-      "stockQuantity": 20,
-      "unitOfMeasure": "unidad",
-      "idCategory": 102,
-      "urlImage": "https://example.com/sierra.jpg"
+      "name": "Clavos M2",
+      "stock_quantity": 700
     },
     {
-      "idProduct": 4,
-      "name": "Cinta Métrica Resistente",
-      "description": "Una cinta métrica duradera con una longitud de 5 metros, esencial para medir y marcar dimensiones en proyectos.",
-      "unitPrice": 9.99,
-      "stockQuantity": 100,
-      "unitOfMeasure": "unidad",
-      "idCategory": 105,
-      "urlImage": "https://example.com/cinta.jpg"
+      "name": "Cinta métrica",
+      "stock_quantity": 100
     },
     {
-      "idProduct": 5,
-      "name": "Pintura para Interiores",
-      "description": "Una gama de pinturas en una variedad de colores y acabados para renovar tus espacios interiores.",
-      "unitPrice": 29.99,
-      "stockQuantity": 40,
-      "unitOfMeasure": "galón",
-      "idCategory": 104,
-      "urlImage": "https://example.com/pintura.jpg"
+      "name": "Caladora 750W",
+      "stock_quantity": 5
     },
     {
-      "idProduct": 6,
-      "name": "Tornillos de Madera (Paquete de 50)",
-      "description": "Tornillos de madera de alta calidad para una fijación sólida en proyectos de carpintería.",
-      "unitPrice": 5.99,
-      "stockQuantity": 150,
-      "unitOfMeasure": "paquete",
-      "idCategory": 105,
-      "urlImage": "https://example.com/tornillos.jpg"
+      "name": "Cortadora Pavimento Ah480 Ø 20 - 13hp Fmt - Motor Honda",
+      "stock_quantity": 2600
     },
     {
-      "idProduct": 7,
-      "name": "Cerradura de Puerta de Seguridad",
-      "description": "Cerradura de alta seguridad para proteger tu hogar o negocio. Incluye llaves de repuesto.",
-      "unitPrice": 39.99,
-      "stockQuantity": 30,
-      "unitOfMeasure": "unidad",
-      "idCategory": 107,
-      "urlImage": "https://example.com/cerradura.jpg"
+      "name": "Martillo Stanley M1",
+      "stock_quantity": 20
     },
     {
-      "idProduct": 8,
-      "name": "Brocas para Taladro (Juego de 10)",
-      "description": "Un juego de brocas de alta calidad para perforar madera, metal, concreto y más.",
-      "unitPrice": 14.99,
-      "stockQuantity": 60,
-      "unitOfMeasure": "juego",
-      "idCategory": 101,
-      "urlImage": "https://example.com/brocas.jpg"
+      "name": "Herramientas",
+      "stock_quantity": 500
     },
     {
-      "idProduct": 9,
-      "name": "Linterna Recargable LED",
-      "description": "Linterna LED potente y recargable, ideal para trabajos nocturnos o emergencias.",
-      "unitPrice": 19.99,
-      "stockQuantity": 50,
-      "unitOfMeasure": "unidad",
-      "idCategory": 105,
-      "urlImage": "https://example.com/linterna.jpg"
+      "name": "Lampara led",
+      "stock_quantity": 1400
     },
     {
-      "idProduct": 10,
-      "name": "Guantes de Trabajo Resistentes (Par)",
-      "description": "Guantes resistentes para proteger tus manos mientras trabajas en diferentes condiciones.",
-      "unitPrice": 8.99,
-      "stockQuantity": 80,
-      "unitOfMeasure": "par",
-      "idCategory": 101,
-      "urlImage": "https://example.com/guantes.jpg"
+      "name": "Clavos M1",
+      "stock_quantity": 600
     },
     {
-      "idProduct": 11,
-      "name": "Pala de Jardín",
-      "description": "Una pala resistente para trabajos de jardinería y paisajismo.",
-      "unitPrice": 17.99,
-      "stockQuantity": 40,
-      "unitOfMeasure": "unidad",
-      "idCategory": 108,
-      "urlImage": "https://example.com/pala.jpg"
+      "name": "Clavos M3",
+      "stock_quantity": 800
     },
     {
-      "idProduct": 12,
-      "name": "Serrucho de Podar",
-      "description": "Un serrucho diseñado para podar ramas de árboles y arbustos de manera eficiente.",
-      "unitPrice": 12.99,
-      "stockQuantity": 35,
-      "unitOfMeasure": "unidad",
-      "idCategory": 108,
-      "urlImage": "https://example.com/serrucho.jpg"
+      "name": "Clavos M4",
+      "stock_quantity": 900
     },
     {
-      "idProduct": 13,
-      "name": "Tubo de PVC (3 metros)",
-      "description": "Tubo de PVC de alta calidad para proyectos de fontanería y construcción.",
-      "unitPrice": 8.49,
-      "stockQuantity": 25,
-      "unitOfMeasure": "unidad",
-      "idCategory": 109,
-      "urlImage": "https://example.com/tubo.jpg"
+      "name": "Lampara comun",
+      "stock_quantity": 1500
     },
     {
-      "idProduct": 14,
-      "name": "Cepillo de Pintura (Juego de 3)",
-      "description": "Juego de cepillos de pintura de diferentes tamaños para aplicar pintura con precisión.",
-      "unitPrice": 9.99,
-      "stockQuantity": 70,
-      "unitOfMeasure": "juego",
-      "idCategory": 104,
-      "urlImage": "https://example.com/cepillos.jpg"
+      "name": "Clavos M5",
+      "stock_quantity": 1000
     },
     {
-      "idProduct": 15,
-      "name": "Escalera de Aluminio (6 pies)",
-      "description": "Una escalera de aluminio resistente y ligera para alcanzar lugares altos con seguridad.",
-      "unitPrice": 59.99,
-      "stockQuantity": 20,
-      "unitOfMeasure": "unidad",
-      "idCategory": 105,
-      "urlImage": "https://example.com/escalera.jpg"
+      "name": "Disco Base Abrojo Amoladora Lustrar Pulir 115mm Subte A",
+      "stock_quantity": 1800
     },
     {
-      "idProduct": 16,
+      "name": "Serrucho",
+      "stock_quantity": 400
+    },
+    {
+      "name": "Mm Ferreteria Express",
+      "stock_quantity": 1900
+    },
+    {
+      "name": "Clavos M6",
+      "stock_quantity": 1100
+    },
+    {
+      "name": "Clavos T0",
+      "stock_quantity": 1300
+    },
+    {
+      "name": "Disco diamantado 4 1/2 continuo",
+      "stock_quantity": 2200
+    },
+    {
+      "name": "Kit de herramientas manuales con 152 piezas",
+      "stock_quantity": 2500
+    },
+    {
+      "name": "Martillo",
+      "stock_quantity": 200
+    },
+    {
+      "name": "MÉNSULA 30 X 35 CM",
+      "stock_quantity": 2400
+    },
+    {
+      "name": "Martillo de garra",
+      "stock_quantity": 2900
+    },
+    {
       "name": "Destornillador Phillips",
-      "description": "Un destornillador con punta Phillips para apretar y aflojar tornillos con cabeza en cruz.",
-      "unitPrice": 4.99,
-      "stockQuantity": 100,
-      "unitOfMeasure": "unidad",
-      "idCategory": 101,
-      "urlImage": "https://example.com/destornillador.jpg"
+      "stock_quantity": 3000
     },
     {
-      "idProduct": 17,
-      "name": "Soplete de Gas",
-      "description": "Un soplete de gas para trabajos de soldadura y soldadura blanda.",
-      "unitPrice": 24.99,
-      "stockQuantity": 40,
-      "unitOfMeasure": "unidad",
-      "idCategory": 102,
-      "urlImage": "https://example.com/soplete.jpg"
+      "name": "Sierra de mano",
+      "stock_quantity": 3200
+    },
+    {
+      "name": "Clavos de acero",
+      "stock_quantity": 3300
+    },
+    {
+      "name": "Pintura acrílica blanca",
+      "stock_quantity": 3400
+    },
+    {
+      "name": "Cortadora Pavimento Ah750 - Motor Honda",
+      "stock_quantity": 2700
+    },
+    {
+      "name": "Martillo nuevo",
+      "stock_quantity": 67
     }
   ]
 }
+{
+  "purchase": [
+    {
+      "month": "Enero",
+      "price": 1500000
+    },
+    {
+      "month": "Febrero",
+      "price": 1750000
+    },
+    {
+      "month": "Marzo",
+      "price": 1200000
+    },
+    {
+      "month": "Abril",
+      "price": 2100000
+    },
+    {
+      "month": "Mayo",
+      "price": 1850000
+    },
+    {
+      "month": "Junio",
+      "price": 1600000
+    },
+    {
+      "month": "Julio",
+      "price": 1900000
+    },
+    {
+      "month": "Agosto",
+      "price": 2200000
+    },
+    {
+      "month": "Septiembre",
+      "price": 2050000
+    },
+    {
+      "month": "Octubre",
+      "price": 2300000
+    },
+    {
+      "month": "Noviembre",
+      "price": 1950
+    }
+  ]
+}
+
