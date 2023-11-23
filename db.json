@@ -136,8 +136,7 @@
       "name": "Martillo nuevo",
       "stock_quantity": 67
     }
-  ]
-}
+  ],
 {
   "purchase": [
     {
@@ -186,4 +185,5 @@
     }
   ]
 }
+
 
