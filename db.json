@@ -29,10 +29,6 @@
       "stock_quantity": 5
     },
     {
-      "name": "Martillo Stanley M1",
-      "stock_quantity": 20
-    },
-    {
       "name": "Herramientas",
       "stock_quantity": 500
     },
@@ -49,16 +45,8 @@
       "stock_quantity": 800
     },
     {
-      "name": "Clavos M4",
-      "stock_quantity": 900
-    },
-    {
       "name": "Lampara comun",
       "stock_quantity": 1500
-    },
-    {
-      "name": "Clavos M5",
-      "stock_quantity": 1000
     },
     {
       "name": "Serrucho",
