@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "name": "Amoladora Angular Versa Pro 2400 W 230 Mm Ferreteria Express",
-      "stock_quantity": 1600
-    },
-    {
-      "name": "Amoladora angular eléctrica 820 w 115 mm",
-      "stock_quantity": 2100
-    },
-    {
       "name": "Cepillos De Bronce Para Taladro",
       "stock_quantity": 1700
     },
@@ -35,10 +27,6 @@
     {
       "name": "Caladora 750W",
       "stock_quantity": 5
-    },
-    {
-      "name": "Cortadora Pavimento Ah480 Ø 20 - 13hp Fmt - Motor Honda",
-      "stock_quantity": 2600
     },
     {
       "name": "Martillo Stanley M1",
@@ -73,10 +61,6 @@
       "stock_quantity": 1000
     },
     {
-      "name": "Disco Base Abrojo Amoladora Lustrar Pulir 115mm Subte A",
-      "stock_quantity": 1800
-    },
-    {
       "name": "Serrucho",
       "stock_quantity": 400
     },
@@ -95,10 +79,6 @@
     {
       "name": "Disco diamantado 4 1/2 continuo",
       "stock_quantity": 2200
-    },
-    {
-      "name": "Kit de herramientas manuales con 152 piezas",
-      "stock_quantity": 2500
     },
     {
       "name": "Martillo",
